@@ -41,4 +41,4 @@ import 'components/admin_custom_order_tab_view.dart'; **Your project's package o
 
  >  __Business Logic should always be separate from UI__
 
- >  __You a state management tool to manage your app's state for medium or Large Scale applications__
+ >  __Use a state management tool to manage your app's state for medium or Large Scale applications__

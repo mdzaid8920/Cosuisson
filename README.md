@@ -41,3 +41,5 @@ import 'components/admin_custom_order_tab_view.dart'; **Your project's package o
  >  __Business Logic should always be separate from UI__
 
  >  __Use a state management tool to manage your app's state for medium or Large Scale applications__
+
+ > You have also used some good practices like SizeConfig for responsiveness and breaking down the child widgets into Stateless Widgets instead of functions. Keep shining and NEVER GIVE UP

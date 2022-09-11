@@ -11,9 +11,8 @@ Folder or File name should be in small letters, more than two words separating w
 The scope of a global function or variable should be **private**, meaning it should only be used within the class in which it is defined.
 e.g.
 
- DateTime? _selectedDate;
-
- Future<void> _selectDate(BuildContext , ){}
+    DateTime? _selectedDate;
+    Future<void> _selectDate(BuildContext , ){}
 
  ### Follow Flutter Linting Rules ###
 
